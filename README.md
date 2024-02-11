@@ -1,5 +1,5 @@
 # intelligate
-
+# My favorite project
 
 ## Project setup
 ```
