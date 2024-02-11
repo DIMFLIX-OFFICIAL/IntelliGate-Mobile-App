@@ -1,5 +1,4 @@
 # IntelliGate
-
 ## Project setup
 ```
 npm install
