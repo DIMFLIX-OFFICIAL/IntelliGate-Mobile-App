@@ -1,4 +1,4 @@
-# intelligate
+# IntelliGate
 
 
 ## Project setup
