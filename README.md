@@ -1,5 +1,6 @@
 # intelligate
 
+
 ## Project setup
 ```
 npm install
