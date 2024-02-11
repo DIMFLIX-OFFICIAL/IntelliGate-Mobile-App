@@ -1,4 +1,7 @@
-# IntelliGate
+
+# intelligate
+# My favorite project
+
 ## Project setup
 ```
 npm install
