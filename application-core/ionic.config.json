@@ -1,0 +1,7 @@
+{
+  "name": "intelligate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
